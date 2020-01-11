@@ -6,3 +6,12 @@ h1 {
     color: white;
     text-align: center;
 }
+
+.card-header {
+    background-color: rgb(2, 32, 87);
+    color: white;
+}
+
+#form {
+    background-color: white;
+}
